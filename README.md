@@ -47,8 +47,8 @@
 ### 🖋️ Contributions 
 
 <div id="contributions">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=pr4th4m&count_private=true&show_icons=true&theme=react" />
-  <img width="425" src="https://streak-stats.demolab.com/?user=pr4th4m&theme=react" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=pr4th4m&count_private=true&show_icons=true&theme=react&border=false" />
+  <img width="425" src="https://streak-stats.demolab.com/?user=pr4th4m&theme=react&border=false" />
   <img width="830" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pr4th4m&theme=react" />
 </div>
 
