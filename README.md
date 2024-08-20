@@ -6,35 +6,34 @@
 <div id="badges">
   <p align="center">
   <p align="center">
+  <a href="https://pr4th4m.github.io" target="_blank">
+  <img alt="Tech Blog" src="https://img.shields.io/badge/myblog-%230077b5.svg?&style=for-the-badge&logo=blog&logoColor=white">
+  </a>
+
   <a href="https://www.linkedin.com/in/pr4th4m/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logoColor=white"/>
   </a>
 
   <a href="https://twitter.com/pr4th4m9" target="_blank">
-  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-
-  <a href="http://dev.to/pratham" target="_blank">
-  <img alt="DevTo" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%230077b5.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
-
 ---
 
 ### 👦 About Me
-- 💻 Experience in designing, developing and delivering enterprise applications
+- 💻 Experience in designing, developing and delivering enterprise applications at scale
 
-- 🔧 Languages I work on Rust, Golang, TypeScript, Python
+- 🔧 Languages I work on Golang, Python, TypeScript, Rust, 
 
 - 🧗‍♂️  Like to learn new technologies
 
-- 👨‍💻 A hobbyist programmer too
+- 👨‍💻 A hobbyist programmer
 
 ---
 
 ###	🛠️ Skills
 
-[![Skills](https://skillicons.dev/icons?i=rust,go,ts,py&theme=dark)]()
+[![Skills](https://skillicons.dev/icons?i=go,py,ts,rust&theme=dark)]()
 
 [![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&theme=dark)]()
 
