@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://pr4th4m.github.io" target="_blank">
-  <img alt="TechBlog" src="https://img.shields.io/badge/techblog%230077b5.svg?&style=for-the-badge&logo=blog&logoColor=white">
+  <img alt="TechBlog" src="https://img.shields.io/badge/techblog%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
   </a>
 </div>
 ---
